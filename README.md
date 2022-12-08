@@ -1,3 +1,3 @@
-# Team 4 Directing Resources to Address COVID-19 Health Inequities
+# Team 5 Predict the Popularity of Online News: What Really Drives People to Click?
 Team Member 
-Jiadai Yu, Shu Wang, Sixuan Wang, Yuesen Zhang, Fanfei Zhao
+Tzu-Ching (Charlie) Chou, Yutao (Peter) Luo, Lingxuan (Alice) Wang, Fanfei Zhao, Sheng (Johnny) Zhou
